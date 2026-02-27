@@ -13,11 +13,35 @@
       "id": 73930385
     },
     {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-01-01T00:00:00.000Z",
+      "notes": "Ich liebe Berlin!",
+      "position": {
+        "lat": 52.520008,
+        "lng": 13.404954
+      },
+      "id": 7788930386
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2027-01-01T00:00:00.000Z",
+      "notes": "Bonjour",
+      "position": {
+        "lat": 48.853408203125,
+        "lng": 2.3486328125
+      },
+      "id": 7788930387
+    },
+    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
       "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "notes": "Te amo Madrid!",
       "position": {
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
@@ -25,16 +49,28 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "New York",
+      "country": "USA",
+      "emoji": "🇺🇸",
+      "date": "2026-02-12T08:24:11.863Z",
+      "notes": "I love New York!",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": 40.71287839371332,
+        "lng": -74.00596618652344
       },
-      "id": 98443197
+      "id": 98485222
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2027-02-12T08:24:11.863Z",
+      "notes": "I love Tokyo!",
+      "position": {
+        "lat": 35.689487,
+        "lng": 139.691706
+      },
+      "id": 98385228
     }
   ]
 }
