@@ -71,6 +71,54 @@
         "lng": 139.691706
       },
       "id": 98385228
+    },
+    {
+      "cityName": "Newark",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "Sat Feb 28 2026 21:57:56 GMT-0500 (Eastern Standard Time)",
+      "notes": "Test",
+      "position": {
+        "lat": "40.73685214795608",
+        "lng": "-74.16492462158205"
+      },
+      "id": 7788930388
+    },
+    {
+      "cityName": "Jersey City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "Sat Feb 28 2026 22:05:57 GMT-0500 (Eastern Standard Time)",
+      "notes": "test",
+      "position": {
+        "lat": "40.71890001704013",
+        "lng": "-74.04441833496095"
+      },
+      "id": 7788930394
+    },
+    {
+      "cityName": "Saratoga Springs",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "Sat Feb 28 2026 22:13:16 GMT-0500 (Eastern Standard Time)",
+      "notes": "Ive been there and love it",
+      "position": {
+        "lat": "43.07775689740579",
+        "lng": "-73.77255191283948"
+      },
+      "id": 7788930395
+    },
+    {
+      "cityName": "North Davis",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "Sat Feb 28 2026 22:17:40 GMT-0500 (Eastern Standard Time)",
+      "notes": "test",
+      "position": {
+        "lat": "41.02964338716641",
+        "lng": "-112.19238281250001"
+      },
+      "id": 7788930396
     }
   ]
 }
