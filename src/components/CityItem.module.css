@@ -49,6 +49,6 @@
 }
 
 .deleteBtn:hover {
-  background-color: var(--color-brand--1);
-  color: var(--color-dark--1);
+  background-color: darkred;
+  color: white;
 }

@@ -25,18 +25,6 @@
       "id": 7788930386
     },
     {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2027-01-01T00:00:00.000Z",
-      "notes": "Bonjour",
-      "position": {
-        "lat": 48.853408203125,
-        "lng": 2.3486328125
-      },
-      "id": 7788930387
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -47,42 +35,6 @@
         "lng": -3.7133789062500004
       },
       "id": 17806751
-    },
-    {
-      "cityName": "New York",
-      "country": "USA",
-      "emoji": "🇺🇸",
-      "date": "2026-02-12T08:24:11.863Z",
-      "notes": "I love New York!",
-      "position": {
-        "lat": 40.71287839371332,
-        "lng": -74.00596618652344
-      },
-      "id": 98485222
-    },
-    {
-      "cityName": "Tokyo",
-      "country": "Japan",
-      "emoji": "🇯🇵",
-      "date": "2027-02-12T08:24:11.863Z",
-      "notes": "I love Tokyo!",
-      "position": {
-        "lat": 35.689487,
-        "lng": 139.691706
-      },
-      "id": 98385228
-    },
-    {
-      "cityName": "Newark",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "Sat Feb 28 2026 21:57:56 GMT-0500 (Eastern Standard Time)",
-      "notes": "Test",
-      "position": {
-        "lat": "40.73685214795608",
-        "lng": "-74.16492462158205"
-      },
-      "id": 7788930388
     },
     {
       "cityName": "Jersey City",
@@ -109,14 +61,14 @@
       "id": 7788930395
     },
     {
-      "cityName": "North Davis",
+      "cityName": "New York City",
       "country": "United States of America (the)",
       "emoji": "🇺🇸",
-      "date": "Sat Feb 28 2026 22:17:40 GMT-0500 (Eastern Standard Time)",
-      "notes": "test",
+      "date": "Sat Feb 28 2026 23:11:04 GMT-0500 (Eastern Standard Time)",
+      "notes": "Home, sweet home",
       "position": {
-        "lat": "41.02964338716641",
-        "lng": "-112.19238281250001"
+        "lat": "40.711093232233985",
+        "lng": "-74.00253295898439"
       },
       "id": 7788930396
     }
