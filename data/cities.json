@@ -71,6 +71,18 @@
         "lng": "-74.00253295898439"
       },
       "id": 7788930396
+    },
+    {
+      "cityName": "Township of Rockaway",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "Sun Mar 01 2026 00:11:57 GMT-0500 (Eastern Standard Time)",
+      "notes": "test",
+      "position": {
+        "lat": "40.95760413706833",
+        "lng": "-74.45571899414064"
+      },
+      "id": 7788930397
     }
   ]
 }
