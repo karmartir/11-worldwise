@@ -1,7 +1,7 @@
-import { useNavigate, useSearchParams } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import styles from "./Map.module.css";
 import { useEffect, useState } from "react";
-import { useCities } from "../contexts/CitiesContext";
+import { useCities } from "../hooks/useCities";
 import {
   MapContainer,
   TileLayer,

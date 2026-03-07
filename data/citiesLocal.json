@@ -1,0 +1,86 @@
+[
+  {
+    "cityName": "Lisbon",
+    "country": "Portugal",
+    "emoji": "🇵🇹",
+    "date": "2027-10-31T15:59:59.138Z",
+    "notes": "My favorite city so far!",
+    "position": {
+      "lat": 38.727881642324164,
+      "lng": -9.140900099907554
+    },
+    "id": 73930385
+  },
+  {
+    "cityName": "Berlin",
+    "country": "Germany",
+    "emoji": "🇩🇪",
+    "date": "2027-01-01T00:00:00.000Z",
+    "notes": "Ich liebe Berlin!",
+    "position": {
+      "lat": 52.520008,
+      "lng": 13.404954
+    },
+    "id": 7788930386
+  },
+  {
+    "cityName": "Madrid",
+    "country": "Spain",
+    "emoji": "🇪🇸",
+    "date": "2027-07-15T08:22:53.976Z",
+    "notes": "Te amo Madrid!",
+    "position": {
+      "lat": 40.46635901755316,
+      "lng": -3.7133789062500004
+    },
+    "id": 17806751
+  },
+  {
+    "cityName": "Jersey City",
+    "country": "United States of America (the)",
+    "emoji": "🇺🇸",
+    "date": "Sat Feb 28 2026 22:05:57 GMT-0500 (Eastern Standard Time)",
+    "notes": "test",
+    "position": {
+      "lat": "40.71890001704013",
+      "lng": "-74.04441833496095"
+    },
+    "id": 7788930394
+  },
+  {
+    "cityName": "Saratoga Springs",
+    "country": "United States of America (the)",
+    "emoji": "🇺🇸",
+    "date": "Sat Feb 28 2026 22:13:16 GMT-0500 (Eastern Standard Time)",
+    "notes": "Ive been there and love it",
+    "position": {
+      "lat": "43.07775689740579",
+      "lng": "-73.77255191283948"
+    },
+    "id": 7788930395
+  },
+  {
+    "cityName": "New York City",
+    "country": "United States of America (the)",
+    "emoji": "🇺🇸",
+    "date": "Sat Feb 28 2026 23:11:04 GMT-0500 (Eastern Standard Time)",
+    "notes": "Home, sweet home",
+    "position": {
+      "lat": "40.711093232233985",
+      "lng": "-74.00253295898439"
+    },
+    "id": 7788930396
+  },
+  {
+    "cityName": "Washington",
+    "country": "United States of America (the)",
+    "emoji": "🇺🇸",
+    "date": "Sun Mar 01 2026 18:09:41 GMT-0500 (Eastern Standard Time)",
+    "notes": "rww",
+    "position": {
+      "lat": "38.89985061562849",
+      "lng": "-77.03304290771486"
+    },
+    "id": 7788930397
+  }
+]
