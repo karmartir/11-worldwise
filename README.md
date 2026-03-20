@@ -1,6 +1,6 @@
 # 🌍 WorldWise — Travel Journal
 
-A single-page application that lets you track every city you've ever visited on an interactive world map. Click anywhere on the map, fill in a quick note and date, and your trip is saved. Built as part of [Jonas Schmedtmann's Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/) on Udemy.
+A single-page application that lets you track every city you've ever visited on an interactive world map. Click anywhere on the map, fill in a quick note and date, and your trip is saved.
 
 ## 🚀 Live Demo
 
@@ -111,4 +111,4 @@ The app uses a mock authentication system — no real backend required.
 
 ## 🙏 Credits
 
-Original project design and course material by [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
+Project built from scratch following the course material by [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
